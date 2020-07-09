@@ -1,0 +1,2 @@
+C:\Users\artem\source\repos\AspNetTrainee\AspNetTrainee\obj\Debug\AspNetTrainee.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\AspNetTrainee\AspNetTrainee\obj\Debug\AspNetTrainee.csproj.CoreCompileInputs.cache
